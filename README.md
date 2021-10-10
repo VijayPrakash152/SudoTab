@@ -22,7 +22,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 $ git clone https://github.com/VijayPrakash152/SudoTab.git
 
 # Go into the repository
-$ cd transaction-manager
+$ cd SudoTab
 
 # Install dependencies
 $ npm install
