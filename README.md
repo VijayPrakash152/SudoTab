@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/VijayPrakash152/SudoTab/master/img/logo.png" alt="SudoTab" width="600"></a> 
+  <img src="https://raw.githubusercontent.com/VijayPrakash152/SudoTab/master/img/logo.png" alt="SudoTab" width="800"></a> 
   <br>
   Sudo Tab
   <br>
