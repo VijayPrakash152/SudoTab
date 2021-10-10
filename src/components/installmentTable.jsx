@@ -29,7 +29,7 @@ export const InstallmentTable = (props) => {
         data={(query) =>
           new Promise((resolve, reject) => {
             // prepare your data and then call resolve like this:
-            let url = `${config.backendBaseUrl}/installments/${id}?`;
+            let url = `${config.backendBaseUrl}installments/${id}?`;
 
             //sorting
             if (query.orderBy) {

@@ -39,7 +39,7 @@ export const CustomTable = (props) => {
         data={(query) =>
           new Promise((resolve, reject) => {
             // prepare your data and then call resolve like this:
-            let url = `${config.backendBaseUrl}/transactions?`;
+            let url = `${config.backendBaseUrl}transactions?`;
 
             console.log(query);
             //searching
